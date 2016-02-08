@@ -1,0 +1,25 @@
+Example:
+ Do you like chocolate?
+ yes => Download behavior : Point to nearest shop where to buy chocolate
+ no => Ok then...
+
+Example:
+ Do you like gangnam style?
+ yes => Download behavior : Dance gangnam style
+ no => Ok then...
+
+1. Prompted for input
+2. Check for internet
+3. Download from github repository
+4. Execute downloaded
+
+2, 3 can be in 1 Block ( check for internet by downloading the file. If after 1 second no response -> no internet )
+
+3:using similar code to the Internet connection block:
+import urllib2
+response = urllib2.urlopen('http://www.example.com/')
+code = response.read()
+
+4: exec(code) or eval(code) // check which is sufficient
+4: When creating a Run Behavior, it has Behavior manager -> the downloaded code has to be set into the manager as a behavior?
+4: The downloaded file has to know about the 'Motion' and keyframes
