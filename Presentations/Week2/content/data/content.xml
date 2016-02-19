@@ -1,0 +1,689 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-16959.186210879747" y="-10568.614794337253" width="33918.37242175949" height="21298.196143696914"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="20" type="button" x="0" y="0" r="0" s="35.28752852867196" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>962.2377622377622</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="0" type="button" x="-137.84575512059973" y="50.45890769835113" r="0" s="10.884232102267893" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="3" type="button" x="-9936.00776514761" y="3411.013713554051" r="0" s="6.906713263073605" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="4" type="shape" x="-5782.626839957794" y="2398.7537141971493" r="-8.827870066716853" s="22.580995012236013" class="line3">
+      <geom type="arrow">
+        <sp>60.318608383180695 -5.833236783071967</sp>
+        <ep>-60.31860838318069 -5.833236783071997</ep>
+        <b>-11.666473566143964</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="5" type="button" x="-7444.907181000932" y="-4562.00375087523" r="0" s="4.951866935607986" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="6" type="button" x="8922.09874122893" y="726.4308260060735" r="0" s="6.065411191706821" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="7" type="shape" x="-4983.56959549816" y="-3108.687328325466" r="-151.75574892919897" s="22.580995012235956" class="line3">
+      <geom type="arrow">
+        <sp>-31.786658243000566 0</sp>
+        <ep>31.786658243000566 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="8" type="shape" x="5484.432841110047" y="1773.7507206167843" r="-177.0569971524504" s="22.58099501223612" class="line3">
+      <geom type="arrow">
+        <sp>44.442415108061475 7.338596070382925</sp>
+        <ep>-44.44241510806148 7.338596070382915</ep>
+        <b>14.67719214076584</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="9" type="button" x="5374.093726435452" y="-5798.84264852482" r="0" s="4.4973389075499774" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="10" type="shape" x="3643.3520208000905" y="-3795.415960826825" r="132.99171862535846" s="16.12928215159713" class="line3">
+      <geom type="arrow">
+        <sp>30 0</sp>
+        <ep>-30 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="23" type="text" x="-10220.592523488436" y="1689.3911291421664" r="0" s="18.423885654795335" class="head">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Alpha]]></text>
+      </p>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="3"/>
+      </layout>
+    </object>
+    <object id="24" type="text" x="-9441.350000000002" y="3772.9507486400853" r="0" s="10.630489031890242" class="strong">
+      <height>220.78125</height>
+      <width>345.9721135868911</width>
+      <p>
+        <text><![CDATA[-Introduction ceremony]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-Registration Room]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-AI speech Innovation]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Any cool Ideas?]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="3"/>
+      </layout>
+    </object>
+    <object id="27" type="text" x="5249.34970577986" y="-6876.919608174973" r="0" s="11.996800015799346" class="head">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Omega]]></text>
+      </p>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="28" type="text" x="5412.24948945573" y="-5455.268707959369" r="0" s="5.720738064161863" class="body">
+      <height>220.78125</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[-Web Application ]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[Build back-end (Restful API), Front-End Anguliar-JS, Designe]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-Full-Security]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-Any interesting idea?]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="57_24309637" type="text" x="-7498.215446187196" y="-5904.672746395654" r="0" s="13.371640168418876" class="head">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Beta]]></text>
+      </p>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="5"/>
+      </layout>
+    </object>
+    <object id="58_24309637" type="text" x="-6882.218846981442" y="-4748.728954969416" r="0" s="8.383849402085657" class="strong">
+      <height>137.98828125</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[-Greeting Students]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-Soccer repository]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-700 pieces library]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="5"/>
+      </layout>
+    </object>
+    <object id="1_30863873" type="text" x="4842.803806453747" y="8256.480748190885" r="0" s="59.74180267980248" class="head">
+      <height>82.79296875</height>
+      <width>328.7878222131714</width>
+      <p>
+        <text><![CDATA[Maddness Group]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="12_4" type="text" x="-329.2" y="-3459.45" r="0" s="23.995081385426108" class="head">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text color="15478355"><![CDATA[Event Day]]></text>
+      </p>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="0"/>
+      </layout>
+    </object>
+    <object id="25_4" type="text" x="525.4951630781121" y="223.42467966004278" r="0" s="13.371640168418876" class="strong">
+      <height>441.5625</height>
+      <width>562.2360617563778</width>
+      <p>
+        <text><![CDATA[Madness responsibilities: ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[1. SW Maintenance & All robot issues]]></text>
+      </p>
+      <p>
+        <text><![CDATA[2. NAO Starting procedure ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[3. Helpdesk ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[4. Sample code Choregraphe, Python ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[5. Web site and portal]]></text>
+      </p>
+      <p>
+        <text><![CDATA[6. DO’s en don't’s with NAO ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[7. Vbot and Choregraphe Simulator  + Manuals  ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[8. List and procedures of things to install in advance ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[9. Choregraphe license policy ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[10. Plug-and-Play preparation of the robots ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[11. Differences between version 5 and 6 ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[12. Event's video.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="0"/>
+      </layout>
+    </object>
+    <object id="2_30863873" type="text" x="8900.836082779342" y="-497.4550476504234" r="0" s="13.371640168418876" class="head">
+      <height>27.59765625</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Contributes]]></text>
+      </p>
+      <meta>
+        <parentTemplate>explain-a-topic-white</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="title" parent-id="6"/>
+      </layout>
+    </object>
+    <object id="3_30863873" type="text" x="8904.169246605645" y="744.0952147928796" r="0" s="7.715368886462996" class="body">
+      <height>82.79296875</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[-Helpdesk]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[-Recording group]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="6"/>
+      </layout>
+    </object>
+    <object id="1" type="text" x="424.75" y="8457.35" r="0" s="21.81371035038737" class="head">
+      <height>55.1953125</height>
+      <width>-299.625</width>
+      <p>
+        <text><![CDATA[BusIT International Weeks]]></text>
+      </p>
+      <p>
+        <text><![CDATA[11-25 April 2016]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="20"/>
+    </s>
+    <s>
+      <eagle o="0"/>
+    </s>
+    <s>
+      <eagle o="3"/>
+    </s>
+    <s>
+      <eagle o="5"/>
+    </s>
+    <s>
+      <eagle o="9"/>
+    </s>
+    <s>
+      <eagle o="6"/>
+    </s>
+    <s>
+      <eagle o="20"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+.line1
+{
+	color: #6d6d6d;
+	gradEndColor: #6d6d6d;
+	gradStartColor: #6d6d6d;
+}
+
+.line2
+{
+	color: #89aa413;
+	gradEndColor: #89aa413;
+	gradStartColor: #89aa413;
+}
+
+.line3
+{
+	color: #4189b1;
+	gradEndColor: #4189b1;
+	gradStartColor: #4189b1;
+}
+
+.line4
+{
+	color: #e49f44;
+	gradEndColor: #e49f44;
+	gradStartColor: #e49f44;
+}
+
+.line5
+{
+	color: #c82727;
+	gradEndColor: #c82727;
+	gradStartColor: #c82727;
+}
+
+.poly1
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #6d6d6d;
+	gradStartColor: #6d6d6d;
+}
+
+.poly2
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #89aa413;
+	gradStartColor: #89aa413;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #4189b1;
+	gradStartColor: #4189b1;
+}
+
+.poly4
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #e49f44;
+	gradStartColor: #e49f44;
+}
+
+.poly5
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #fff;
+	gradEndColor: #c82727;
+	gradStartColor: #c82727;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderColor: #333;
+	borderThickness: 1.5;
+	gradEndAlpha: .7;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: .35;
+	gradEndColor: #000;
+	gradStartAlpha: .35;
+	gradStartColor: #000;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: .35;
+	gradEndColor: #000;
+	gradStartAlpha: .35;
+	gradStartColor: #000;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 5;
+	gradEndAlpha: 0.3;
+	gradEndColor: #333;
+	gradStartAlpha: 0.3;
+	gradStartColor: #333;
+	padding: 1.03;
+	radius: 8;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #eee;
+	background-padding: 10;
+}
+
+ZLabel.head
+{
+	color: #4189b1;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #fff;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #333;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #e49f44;
+	background-padding: 4;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.6;
+	color: #fe3c2e;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-153917d3</hash>
+<sync><oid>bypulgguinwo</oid><title>maddness-group</title><hash>-153917d3</hash></sync><config>QicnnRmXU4zU/4A6bSGvSaE3PAJ+BW7Oya29DTp0DC56Hiq6R/M0nmo8n3zexlL7MEniPkYFHWxVZPZFFyhfuLEzOJQ5zJff+yrTjc6VAIg7Ug8hW59O/IHf1e48eMKmGtwIvavXXNdAsREQio8AB495fyUVKINhN4La79rAd3nyKFf/K1sO6n+0i1dC15VD89QfeobvWa1FYS2fFpgOfeMDfn5oAOzGfHptNjhZKHvHpsaFSVwBi60U0aKYI8+qd+uK2XsTyEdJhiACUwlX+D++T3gibTKzPwuXynlx1ONxIup43LLAMU1vcsg/9yp7tUOPMcZN7zFucq6PnQmMEQ==</config></zuiprezi>
