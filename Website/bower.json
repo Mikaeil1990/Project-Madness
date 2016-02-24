@@ -1,0 +1,21 @@
+{
+  "name": "Project-Madness",
+  "homepage": "https://github.com/Mikaeil1990/Project-Madness",
+  "authors": [
+    "Jose Luis Pena <josepetew@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
